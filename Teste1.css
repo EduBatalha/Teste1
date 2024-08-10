@@ -1,0 +1,5 @@
+body{background-color: darkslateblue;
+display: flex;
+flex-direction: column;
+text-align: center;}
+h1, a{color: deeppink; font-family: Helvetica;}g
